@@ -1,0 +1,115 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="sequentially">
+
+    <set android:ordering="together">
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleX"
+            android:valueFrom="1.0f"
+            android:valueTo="0.8f"
+            android:valueType="floatType" />
+
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleY"
+            android:valueFrom="1.0f"
+            android:valueTo="0.8f"
+            android:valueType="floatType" />
+    </set>
+
+    <set android:ordering="together">
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleX"
+            android:valueFrom="0.8f"
+            android:valueTo="1.0f"
+            android:valueType="floatType" />
+
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleY"
+            android:valueFrom="0.8f"
+            android:valueTo="1.0f"
+            android:valueType="floatType" />
+    </set>
+
+    <set android:ordering="together">
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleX"
+            android:startOffset="600"
+            android:valueFrom="1.0f"
+            android:valueTo="0.8f"
+            android:valueType="floatType" />
+
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleY"
+            android:startOffset="600"
+            android:valueFrom="1.0f"
+            android:valueTo="0.8f"
+            android:valueType="floatType" />
+    </set>
+
+    <set android:ordering="together">
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleX"
+            android:valueFrom="0.8f"
+            android:valueTo="1.0f"
+            android:valueType="floatType" />
+
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleY"
+            android:valueFrom="0.8f"
+            android:valueTo="1.0f"
+            android:valueType="floatType" />
+    </set>
+
+    <set android:ordering="together">
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleX"
+            android:startOffset="600"
+            android:valueFrom="1.0f"
+            android:valueTo="0.8f"
+            android:valueType="floatType" />
+
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleY"
+            android:startOffset="600"
+            android:valueFrom="1.0f"
+            android:valueTo="0.8f"
+            android:valueType="floatType" />
+    </set>
+
+    <set android:ordering="together">
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleX"
+            android:valueFrom="0.8f"
+            android:valueTo="1.0f"
+            android:valueType="floatType" />
+
+        <objectAnimator
+            android:duration="200"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleY"
+            android:valueFrom="0.8f"
+            android:valueTo="1.0f"
+            android:valueType="floatType" />
+    </set>
+</set>

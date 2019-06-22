@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="74dp"
+    android:height="74dp"
+    android:viewportWidth="74"
+    android:viewportHeight="74">
+    <group android:name="icRecord"
+        android:pivotX="37"
+        android:pivotY="37">
+        <path
+            android:pathData="M36.5,36.5m-31.5,0a31.5,31.5 0,1 1,63 0a31.5,31.5 0,1 1,-63 0"
+            android:strokeWidth="2"
+            android:fillColor="#F4696A"
+            android:fillType="evenOdd"
+            android:strokeColor="#EA423C"/>
+        <path
+            android:name="icMic"
+            android:pathData="M38.3659,48.6634L38.3659,53.8771C38.3659,54.8201 37.6015,55.5844 36.6585,55.5844C35.7156,55.5844 34.9512,54.8201 34.9512,53.8771L34.9512,48.6634C28.2223,47.8789 23,42.1591 23,35.2195C23,34.2766 23.7644,33.5122 24.7073,33.5122C25.6502,33.5122 26.4146,34.2766 26.4146,35.2195C26.4146,40.8092 30.946,45.3405 36.5357,45.3405L36.7814,45.3405C42.3711,45.3405 46.9024,40.8092 46.9024,35.2195C46.9024,34.2766 47.6668,33.5122 48.6098,33.5122C49.5527,33.5122 50.3171,34.2766 50.3171,35.2195C50.3171,42.1591 45.0948,47.8789 38.3659,48.6634ZM36.6585,19C40.9017,19 44.3415,22.4398 44.3415,26.6829L44.3415,35.2195C44.3415,39.4627 40.9017,42.9024 36.6585,42.9024C32.4154,42.9024 28.9756,39.4627 28.9756,35.2195L28.9756,26.6829C28.9756,22.4398 32.4154,19 36.6585,19Z"
+            android:strokeWidth="1"
+            android:fillColor="#FFFFFF"
+            android:fillType="nonZero"
+            android:strokeColor="#00000000"/>
+    </group>
+</vector>
